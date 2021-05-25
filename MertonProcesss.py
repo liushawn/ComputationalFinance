@@ -53,7 +53,7 @@ def mainCalculation():
     timeGrid = Paths["time"]
     X = Paths["X"]
     S = Paths["S"]
-           
+    
     plt.figure(1)
     plt.plot(timeGrid, np.transpose(X))   
     plt.grid()

@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 11 2021
 Paths for the Jump diffusion proces of Merton
-@author: Shawn
+@author: Shawn Liu
 """
 import numpy as np
 import matplotlib.pyplot as plt
